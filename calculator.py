@@ -5,6 +5,9 @@ def help_screen():
     print("Help: Displays this help screen")
     print("Quit: Exits the program")
 
+def print():
+    print("Hello World")
+
 #menu
 
 def menu():
